@@ -123,6 +123,7 @@ class BT {
         print(str)
     }
 }
+
 let bst = BT()
 bst.insert(key: 5)
 bst.insert(key: 3)
